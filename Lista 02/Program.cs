@@ -8,6 +8,8 @@ namespace Lista_02
         static void Main(string[] args)
         {
 
+            Console.WriteLine("Programa listas");
+
             List<string> list = new List<string>();
             list.Add("Maria");
             list.Add("Alex");
